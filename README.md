@@ -1,9 +1,7 @@
 ## Hi there 👋
 - 💻  Full Stack Developer
-- 👷  Here is my learning curve in 2 year of experince
 - 🔭  I’m passionate about ReactJs. Want to evolve more into javascript
 - 😇  React got stuck in my lifecycle while learning lifecycle of react.
-- 📥  REST API `<<<<<` graphql.
 - 💊  Typescript is medicine to my Anxiety.
 - 💎  Graphql + Prisma + TypeScript
 - 📝  PostgreSql and MongoDB
